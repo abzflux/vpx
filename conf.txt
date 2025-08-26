@@ -1,3 +1,4 @@
+hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443?sni=file-oss-ccs-02.dafei.de&insecure=1&mport=26666-29999#Hyst%20%5BUS%5D
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?encryption=none&security=none&sni=pqh23v4.vetmainconf.shop&type=grpc#vless-grpc-US
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?encryption=none&security=none&type=grpc#vless-grpc-US
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?encryption=none&security=none&type=grpc#vless-grpc-US
