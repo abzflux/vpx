@@ -59,6 +59,12 @@ vless://8de85bc6-4f12-47e0-872f-3794b4ef9783@217.16.24.170:443?encryption=none&f
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@kz.accesspoints.cloakify.app:38339?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=tcp&headerType=none#%5B%F0%9F%87%B0%F0%9F%87%BF%5D%20%5Bvl-re-ra%5D%20%5B251126-222943.291%5D
 vless://60e7e018-ee6a-48b1-9625-c4d4276935b3@178.239.125.31:39735?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.yahoo.co.jp&fp=chrome&pbk=9rx7JwMO-KRZZEM9TQBO19BOAmmGjJyjN86ll2J7uVc&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5D%20%5Bvl-re-ra%5D%20%5B251126-223051.365%5D
 vless://1eff6d61-2f9f-4689-82a9-4232a8f48949@47.79.32.82:42037?encryption=none&flow=xtls-rprx-vision&security=reality&sni=itunes.apple.com&fp=chrome&pbk=3XDxoCztHymlFMXbG1BtoHyWRHpZ9Uvzwa5z9JrQC1E&sid=e978d721cd&type=tcp&headerType=none#%5B%F0%9F%87%AF%F0%9F%87%B5%5D%20%5Bvl-re-ra%5D%20%5B251126-222738.147%5D
+vless://1859f2db-e6e8-4dc4-b21e-99da517e2e62@185.251.90.45:4443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&sid=aa7e96542880027a&type=tcp&headerType=none#vless-tcp-RU
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#vless-tcp-DE
+vless://52c20009-37cf-4c1e-a02e-184de67596f7@46.224.13.187:39550?encryption=none&security=none&type=tcp&headerType=none  ‌: 161,    151  @ConfigsHUB#vless-tcp-DE
+vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?encryption=none&security=reality&sni=www.ok.ru&fp=chrome&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&sid=fdc8125ea6f61323&type=tcp&headerType=none#vless-tcp-RU
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.180:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI#vless-tcp-DE
+vless://0c6fc388-2d1b-450b-a232-9df7dd56cd6b@91.98.46.169:10100?encryption=none&security=none&type=tcp&headerType=none#vless-tcp-DE
 
 
 
