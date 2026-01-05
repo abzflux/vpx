@@ -1,2 +1,4 @@
 vless://a632b6e1-c628-0011-860f-3acbb5018d44@87.242.102.127:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pimg.mycdn.me&fp=chrome&pbk=73XglR9lOaXBISd7mGgTEP60v28mz8pmCDivcDAF_WU&sid=1596b946f2cb560c&type=tcp&headerType=none#%5B%F0%9F%87%B3%F0%9F%87%B1%5D%20%5Bvl-re-ra%5D%20%5B260103-192121.210%5D
 vless://cdf5b5fb-ff76-4ccb-aebc-7c89fd9d8bdb@us-phx-ddns.baipiao0721-dns78655.eu:12053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gw.alicdn.com&fp=edge&pbk=uy8bi1ijbVLqcq1YWMzddY5dU88HkmU9rE4LP7kX9xc&sid=95c96a2a&type=tcp&headerType=none#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%20%5Bvl-re-ra%5D%20%5B260103-192225.232%5D
+vless://ec6901a9-0837-4d55-a29b-f5623d138af7@maxa09.gatesrev.ir:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chatgpt.com&fp=firefox&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&headerType=none#%5B%F0%9F%87%AB%F0%9F%87%B7%5D%20%5Bvl-re-ra%5D%20%5B260105-133551.951%5D
+
