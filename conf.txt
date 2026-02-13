@@ -11,3 +11,5 @@ vless://a26bbed7-a286-4840-84bc-dc102c526777@python.org:80?encryption=none&secur
 vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?encryption=none&security=tls&sni=digikala.sorza.ir&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=gamepc.sorza.ir&path=%2F#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B260212-201257.472%5D
 vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?encryption=none&security=none&type=xhttp&host=hazaranetwork.bh&path=%2Fxhttp&mode=auto#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-xh%5D%20%5B260213-195628.831%5D
 vless://9cf7e4ab-0da9-4213-d376-8f9d91668daf@chatgpt.com:443?encryption=none&security=tls&sni=hajimamad.ladyy-collection.ir&insecure=1&allowInsecure=1&type=xhttp&host=hajimamad.ladyy-collection.ir&path=%2F&mode=auto#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-xh%5D%20%5B260213-195500.888%5D
+vless://752741e4-ca51-4ec2-9ebd-e8806bfa0649@104.18.94.66:443?encryption=none&security=tls&sni=de001c.ketabv.ir&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=de001c.ketabv.ir&path=%2FuqBYRQhpA2NzSIhejwuqjz#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-tl-ws%5D%20%5B260213-195250.964%5D
+
